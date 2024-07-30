@@ -1,0 +1,1 @@
+  # puts "#{registration_date} is a #{registration_date.class}"
